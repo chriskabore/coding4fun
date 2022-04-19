@@ -15,6 +15,7 @@ public class ChallengeAttempt {
     private Long userId;
     private int factorA;
     private int factorB;
-    private boolean correct;
     private int resultAttempt;
+    private boolean correct;
+
 }
